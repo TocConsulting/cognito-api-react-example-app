@@ -44,7 +44,7 @@ cognito-api-react-example-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CloudinitFrance/cognito-api-react-example-app.git
+   git clone https://github.com/TocConsulting/cognito-api-react-example-app.git
    cd cognito-api-react-example-app
    ```
 
@@ -174,9 +174,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ⚛️ [React](https://react.dev/) - UI Library
 - ⚡ [Vite](https://vitejs.dev/) - Development Environment
 - 🎨 [Lucide Icons](https://lucide.dev/) - Beautiful icons
-- 🛡️ [CognitoApi](https://cognito-api.com/) - Core authentication functionality ([GitHub](https://github.com/CloudinitFrance/cognito-api))
+- 🛡️ [CognitoApi](https://cognito-api.com/) - Core authentication functionality ([GitHub](https://github.com/TocConsulting/cognito-api))
 - 🟨 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming Language
 
 ---
 
-Made with ❤️ by [Cloudinit](https://github.com/CloudinitFrance)
+Made with ❤️ by [Toc Consulting](https://github.com/TocConsulting)
